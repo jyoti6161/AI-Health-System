@@ -1,11 +1,9 @@
 # AI-Health-System
 
-Here is the finalized GitHub repository description, customized specifically for your Python, Streamlit, MySQL, and OpenRouter API stack.
-You can copy and paste this directly into your repository's README.md file.
-------------------------------
+
 ## AI-Powered Health Prediction Dashboard
 A secure, data-driven web application built with Python and Streamlit to manage patient health records and predict health risks. The system integrates a persistent MySQL database with the OpenRouter API to analyze blood test results and automatically generate clinical risk remarks.
-## 🚀 Key Features
+##  Key Features
 
 * Complete CRUD Operations: Create, Read, Update, and Delete patient diagnostic profiles seamlessly from a centralized Streamlit dashboard.
 * OpenRouter AI Integration: Dynamically pipes validated blood metrics (Glucose, Haemoglobin, Cholesterol) to OpenRouter models to evaluate health risks.
@@ -13,7 +11,7 @@ A secure, data-driven web application built with Python and Streamlit to manage 
 * Relational Storage: Backed by a MySQL Server to guarantee reliable, long-term data persistence and structured data management.
 * Clean Analytics UI: Responsive, side-by-side layout utilizing Streamlit elements for quick diagnostic data entry and clear reporting.
 
-## 📊 Patient Data Fields Tracked
+## Patient Data Fields Tracked
 
 * Full Name
 * Date of Birth (Validated: past dates only)
@@ -30,7 +28,7 @@ A secure, data-driven web application built with Python and Streamlit to manage 
 * Database: MySQL Server
 * AI/ML API Integration: OpenRouter API (utilizing advanced language/reasoning models)
 
-## 🔧 Installation & Setup## 1. Prerequisites
+##  Installation & Setup## 1. Prerequisites
 Ensure you have MySQL Server running locally or hosted externally, and a Python 3.8+ environment.
 ## 2. Clone and Prepare the Project
 
